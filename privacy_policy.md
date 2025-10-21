@@ -78,5 +78,3 @@ Or contact your **local clinic administrator** in Ghana.
 
 ## 8. Changes to This Policy
 This Privacy Policy may be updated periodically to reflect technical, operational, or regulatory changes.  
-The latest version will always be available at:  
-[https://amanreddy.github.io/ghana-whatsapp-chatbot/privacy_policy](https://amanreddy.github.io/ghana-whatsapp-chatbot/privacy_policy)
